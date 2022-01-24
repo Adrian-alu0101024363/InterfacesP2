@@ -12,4 +12,4 @@ g) Aunque el cubo tenga mas masa cae igual que la esfera porque no se tiene en c
 Para cambiar los ejes virtuales hay que ir a Edit -> Project Settings -> Input manager. Y allí podemos asignar las teclas que queramos en el caso de esta práctica
 las flechas para rotar y wasd para moverse. 
 
-![1](p1)
+![alt text](https://github.com/Adrian-alu0101024363/InterfacesP2/blob/main/1.gif)
